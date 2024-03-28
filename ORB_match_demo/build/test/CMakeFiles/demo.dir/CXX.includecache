@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ORBextractor.h
+vector
+-
+list
+-
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/features2d/features2d.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+
+/home/pj/pj/trick of VO/ORB_match_demo/test/test.cpp
+iostream
+-
+vector
+-
+string
+-
+chrono
+-
+opencv2/opencv.hpp
+-
+opencv2/features2d.hpp
+-
+ORBextractor.h
+/home/pj/pj/trick of VO/ORB_match_demo/test/ORBextractor.h
+cmath
+-
+

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/pj/pj/trick of VO/ORB_match_demo/build/src",
+  "command": "/usr/bin/c++  -Ddemo_match_EXPORTS -I\"/home/pj/pj/trick of VO/ORB_match_demo\" -I\"/home/pj/pj/trick of VO/ORB_match_demo/include\" -I/usr/include/eigen3 -isystem /usr/local/include/opencv  -std=c++11 -Wall -g -fPIC   -o CMakeFiles/demo_match.dir/ORBextractor.cpp.o -c \"/home/pj/pj/trick of VO/ORB_match_demo/src/ORBextractor.cpp\"",
+  "file": "/home/pj/pj/trick of VO/ORB_match_demo/src/ORBextractor.cpp"
+},
+{
+  "directory": "/home/pj/pj/trick of VO/ORB_match_demo/build/test",
+  "command": "/usr/bin/c++   -I\"/home/pj/pj/trick of VO/ORB_match_demo\" -I\"/home/pj/pj/trick of VO/ORB_match_demo/include\" -I/usr/include/eigen3 -isystem /usr/local/include/opencv  -std=c++11 -Wall -g   -o CMakeFiles/demo.dir/test.cpp.o -c \"/home/pj/pj/trick of VO/ORB_match_demo/test/test.cpp\"",
+  "file": "/home/pj/pj/trick of VO/ORB_match_demo/test/test.cpp"
+}
+]
