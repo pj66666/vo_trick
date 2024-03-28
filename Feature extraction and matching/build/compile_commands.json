@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/pj/pj/trick of VO/Feature extraction and matching/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv  -g   -o CMakeFiles/knnMatch.dir/knnMatch.cpp.o -c \"/home/pj/pj/trick of VO/Feature extraction and matching/knnMatch.cpp\"",
+  "file": "/home/pj/pj/trick of VO/Feature extraction and matching/knnMatch.cpp"
+},
+{
+  "directory": "/home/pj/pj/trick of VO/Feature extraction and matching/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv  -g   -o CMakeFiles/RansacMatch.dir/RansacMatch.cpp.o -c \"/home/pj/pj/trick of VO/Feature extraction and matching/RansacMatch.cpp\"",
+  "file": "/home/pj/pj/trick of VO/Feature extraction and matching/RansacMatch.cpp"
+},
+{
+  "directory": "/home/pj/pj/trick of VO/Feature extraction and matching/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv  -g   -o CMakeFiles/DistanceMatch.dir/DistanceMatch.cpp.o -c \"/home/pj/pj/trick of VO/Feature extraction and matching/DistanceMatch.cpp\"",
+  "file": "/home/pj/pj/trick of VO/Feature extraction and matching/DistanceMatch.cpp"
+},
+{
+  "directory": "/home/pj/pj/trick of VO/Feature extraction and matching/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv  -g   -o CMakeFiles/BFMatch.dir/BFMatch.cpp.o -c \"/home/pj/pj/trick of VO/Feature extraction and matching/BFMatch.cpp\"",
+  "file": "/home/pj/pj/trick of VO/Feature extraction and matching/BFMatch.cpp"
+}
+]

@@ -1,0 +1,86 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FeatureMatching",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BFMatch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BFMatch-Debug-d4811d55c5d2dd430a4c.json",
+					"name" : "BFMatch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DistanceMatch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DistanceMatch-Debug-84dfa481e63ffbebf976.json",
+					"name" : "DistanceMatch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RansacMatch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RansacMatch-Debug-eb9ceb3e478364ab4e8f.json",
+					"name" : "RansacMatch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "knnMatch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-knnMatch-Debug-f36dbb5753e44a466623.json",
+					"name" : "knnMatch",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/pj/pj/trick of VO/Feature extraction and matching/build",
+		"source" : "/home/pj/pj/trick of VO/Feature extraction and matching"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

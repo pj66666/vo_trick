@@ -1,0 +1,6 @@
+/home/pj/pj/trick of VO/Feature extraction and matching/build/CMakeFiles/rebuild_cache.dir
+/home/pj/pj/trick of VO/Feature extraction and matching/build/CMakeFiles/edit_cache.dir
+/home/pj/pj/trick of VO/Feature extraction and matching/build/CMakeFiles/knnMatch.dir
+/home/pj/pj/trick of VO/Feature extraction and matching/build/CMakeFiles/RansacMatch.dir
+/home/pj/pj/trick of VO/Feature extraction and matching/build/CMakeFiles/DistanceMatch.dir
+/home/pj/pj/trick of VO/Feature extraction and matching/build/CMakeFiles/BFMatch.dir
